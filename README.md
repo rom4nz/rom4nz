@@ -7,25 +7,7 @@
         justify-items: start;
       "
     >
-      <a href="https://www.instagram.com/rzashakeri/">
-        <img
-          src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-        />
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://stackoverflow.com/users/22172330/sandaruwan-w-g-m-a">
-        <img
-          src="https://img.shields.io/badge/stackoverflow-F47F24?style=for-the-badge&logo=stackoverflow&logoColor=white"
-        />
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://twitter.com/SandaruwanWGMA/">
-        <img
-          src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"
-        />
-      </a>
-      &nbsp;&nbsp;
-      <a href="www.linkedin.com/in/kavishka-sulochana/">
+      <a href="https://www.linkedin.com/in/kavishka-sulochana/">
         <img
           src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white"
         />
