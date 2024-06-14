@@ -31,7 +31,7 @@
 
 <br/>
 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  ##🛠️ My Favorite Tools
   > 👨‍💻 Tools and technologies that I have worked with 
   <p>
     <table>
