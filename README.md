@@ -51,8 +51,7 @@
     </div>
     &nbsp;
 <p align="justify">
-Hello! I'm Molindu Achintha Sandaruwan, a passionate web and mobile developer with a deep love for the transformative potential of technology. I believe in crafting digital experiences that are not just functional but purposeful, driven by user-centered design. My journey is marked by an unyielding curiosity about AI, and I enjoy integrating machine learning into projects to create intelligent solutions.
-
+Hello! I am Kavishka Sulochana Igalagama, a dedicated and passionate 1st-year undergraduate student working towards a Software Engineering Degree. I am highly motivated to learn new technologies and develop innovative solutions to real-world challenges. I am excited to connect with industry experts and expand my software development and engineering expertise. Let's connect and explore exciting opportunities together!
 </p>
 
 ## My favorite tools and technologies ⚙️
