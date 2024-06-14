@@ -1,6 +1,9 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Calibri&weight=800&size=30&pause=1000&color=F7AA00&center=true&vCenter=true&random=false&width=435&lines=**+Welcome+to+My+GitHub+**;Software+Engineer+Undergraduate;Always+Learning+New+Things+!" alt="Typing SVG" /></a>
+</p>
+
+<br><br>
 
 <!-- Social icons section -->
 <p align="center">
@@ -17,6 +20,8 @@
     <img src="https://img.shields.io/badge/instagram-%23F56040.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
+<br>
 
 <p align="justify">
   Hello! I am Kavishka Sulochana Igalagama, a dedicated and passionate 1st-year undergraduate student working towards a Software Engineering Degree. I am highly motivated to learn new technologies and develop innovative solutions to real-world challenges. I am excited to connect with industry experts and expand my software development and engineering expertise. Let's connect and explore exciting opportunities together!
