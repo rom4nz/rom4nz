@@ -31,16 +31,14 @@
 ## 🛠️ Tools and technologies that I have worked with
   > 👨‍💻 Programming Languages
     <p>
-      <table>
-        <td align="center" width="96"><a><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /><br>C#</a></td>
-        <td align="center" width="96"><a><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br>HTML</a></td>
-        <td align="center" width="96"><a><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br>CSS</a></td>
-        <td align="center" width="96"><a><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br>Bootstrap</a></td>
-        <td align="center" width="96"><a><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /><br>C</a></td>
-        <td align="center" width="96"><a><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" /><br>SQL</a></td>
-        <td align="center" width="96"><a><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br>PHP</a></td>
-        <td align="center" width="96"><a><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" /><br>.NET</a></td>
-      </table>
+      <a><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /></a>
+      <a><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /></a>
+      <a><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /></a>
+      <a><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /></a>
+      <a><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /></a>
+      <a><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" /></a>
+      <a><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /></a>
+      <a><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" /></a>
     </p>
   > 💻 Software and Tools
     <p>
@@ -52,3 +50,9 @@
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
     </p>
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
