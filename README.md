@@ -4,6 +4,13 @@
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Calibri&weight=800&size=30&pause=1000&color=F7AA00&center=true&vCenter=true&random=false&width=435&lines=**+Welcome+to+My+GitHub+**;Software+Engineer+Undergraduate;Always+Learning+New+Things+!" alt="Typing SVG" /></a>
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me</h2></summary>
+    <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+  </ul>
+</div>
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/kavishka-sulochana/">
@@ -20,6 +27,7 @@
   </a>
 </p>
 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="justify">
@@ -30,7 +38,7 @@
 
 <br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tools and technologies that I have worked with
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">  Tools and technologies that I have worked with
   > 👨‍💻 Programming Languages <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
     <p>
       <br>
