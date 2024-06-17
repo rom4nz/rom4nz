@@ -1,3 +1,5 @@
+<div align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 120px></div>
+<br>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Calibri&weight=800&size=30&pause=1000&color=F7AA00&center=true&vCenter=true&random=false&width=435&lines=**+Welcome+to+My+GitHub+**;Software+Engineer+Undergraduate;Always+Learning+New+Things+!" alt="Typing SVG" /></a>
@@ -28,9 +30,10 @@
 
 <br>
 
-## 🛠️ Tools and technologies that I have worked with
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tools and technologies that I have worked with
   > 👨‍💻 Programming Languages
     <p>
+      <br>
       <a><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /></a>
       <a><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /></a>
       <a><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /></a>
@@ -40,6 +43,7 @@
       <a><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /></a>
       <a><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" /></a>
     </p>
+    <br>
   > 💻 Software and Tools
     <p>
     <br>
@@ -48,7 +52,7 @@
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
+      <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a><br>
     </p>
     
 <br>
