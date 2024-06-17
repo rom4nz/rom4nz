@@ -28,10 +28,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
+<br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tools and technologies that I have worked with
-  > 👨‍💻 Programming Languages
+  > 👨‍💻 Programming Languages <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
     <p>
       <br>
       <a><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /></a>
@@ -54,7 +54,7 @@
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a><br>
     </p>
-    
+##
 <br>
 <!--- snake -->
 <div align="center">
