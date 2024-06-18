@@ -1,4 +1,3 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 120px></div>
 <br>
@@ -6,32 +5,33 @@
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://git.io/typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F78029&center=true&vCenter=true&random=false&width=435&lines=Hello+World+!;I'm+Kavishka+Sulochana;SE+Undergraduate;Always+Learning+!" alt="Typing SVG" /></a></a></a></a></a>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60">Connect With Me</h2></summary>
-  </ul>
-</div>
+## 
+  <p align="center"><b>Connect with Me</b></p>
+  <p align="center">
+        <a href="https://www.linkedin.com/in/kavishka-sulochana/">
+          <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+        </a>
+        <a href="https://x.com/ksigalagama/">
+          <img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
+        </a>
+        <a href="https://www.facebook.com/kavishka.sulochan/">
+          <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
+        </a>
+        <a href="https://www.instagram.com/kavishka_sulochana//">
+          <img src="https://img.shields.io/badge/instagram-%23F56040.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+        </a>
+      <div align="center">
+        <h6>kavishkaigalagama@gmail.com</h6>
+      </div>
+  </p>
 
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/kavishka-sulochana/">
-    <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/ksigalagama/">
-    <img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/kavishka.sulochan/">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/kavishka_sulochana//">
-    <img src="https://img.shields.io/badge/instagram-%23F56040.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
 <br>
 
 <p align="justify">
   Hello! I am Kavishka Sulochana Igalagama, a dedicated and passionate 2nd-year undergraduate student working towards a Software Engineering Degree. I am highly motivated to learn new technologies and develop innovative solutions to real-world challenges. I am excited to connect with industry experts and expand my software development and engineering expertise. Let's connect and explore exciting opportunities together!
 </p>
+
+##
 
 <br><br>
 
@@ -60,11 +60,12 @@
       <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a><br>
     </p>
 ##
+
+<br>
+
 <br>
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
