@@ -3,7 +3,7 @@
 <br>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F78029&center=true&vCenter=true&random=false&width=435&lines=Hello+World+!;I'm+Kavishka+Sulochana;SE+Undergraduate;Always+Learning+!" alt="Typing SVG" /></a></a></a></a></a>
+  <a href="https://git.io/typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F78029&center=true&vCenter=true&random=false&width=435&lines=%3E+Hello+World+!;I'm+Kavishka+Sulochana;SE+Undergraduate;Always+Learning+!" alt="Typing SVG" /></a></a></a></a></a></a>
 
 ## 
   <p align="center"><b>Connect with Me</b></p>
@@ -38,7 +38,6 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tools and technologies that I have worked with
   > 👨‍💻 <b>Programming Languages<b> <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
     <p align="left">
-      <br>
       <a><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /></a>&emsp;
       <a><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /></a>&emsp;
       <a><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /></a>&emsp;
