@@ -49,14 +49,6 @@
       <a><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" /></a>
       <a><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /></a>
       <a><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" /></a>
-      <a><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /></a>
-      <a><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /></a>
-      <a><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /></a>
-      <a><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /></a>
-      <a><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /></a>
-      <a><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" /></a>
-      <a><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /></a>
-      <a><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" /></a>
     </p>
     <br>
   > 💻 Software and Tools
