@@ -2,7 +2,7 @@
 <br>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Calibri&weight=800&size=30&pause=1000&color=F7AA00&center=true&vCenter=true&random=false&width=435&lines=**+Welcome+to+My+GitHub+**;Software+Engineer+Undergraduate;Always+Learning+New+Things+!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F78029&center=true&vCenter=true&random=false&width=435&lines=Hello+World+!;I'm+Kavishka+Sulochana;SE+Undergraduate;Always+Learning+!" alt="Typing SVG" /></a></a></a></a></a>
 
 <div id="user-content-toc">
   <ul align="center">
@@ -37,21 +37,21 @@
 
 <br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">  Tools and technologies that I have worked with
-  > 👨‍💻 Programming Languages <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tools and technologies that I have worked with
+  > 👨‍💻 <b>Programming Languages<b> <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
     <p align="left">
       <br>
-      <a><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /></a>
-      <a><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /></a>
-      <a><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /></a>
-      <a><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /></a>
-      <a><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /></a>
-      <a><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" /></a>
-      <a><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /></a>
-      <a><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" /></a>
+      <a><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /></a>&emsp;
+      <a><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /></a>&emsp;
+      <a><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /></a>&emsp;
+      <a><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /></a>&emsp;
+      <a><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /></a>&emsp;
+      <a><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" /></a>&emsp;
+      <a><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /></a>&emsp;
+      <a><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" /></a>&emsp;
     </p>
     <br>
-  > 💻 Software and Tools
+  > 💻 <b>Software and Tools<b>
     <p align="left">
     <br>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
