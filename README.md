@@ -5,6 +5,15 @@
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://git.io/typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F78029&center=true&vCenter=true&random=false&width=435&lines=%3E+Hello+World+!;I'm+Kavishka+Sulochana;SE+Undergraduate;Always+Learning+!" alt="Typing SVG" /></a></a></a></a></a></a>
 
+<p align="center">
+  <a href="https://github.com/rom4nz/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+  <a href="https://github.com/rom4nz?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rom4nz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+  <a href="https://github.com/rom4nz?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rom4nz?color=ffd700&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
+
 ## 
   <p align="center"><b>Connect with Me</b></p>
   <p align="center">
