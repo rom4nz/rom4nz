@@ -1,7 +1,6 @@
+<!--- Head -->
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&pause=1000&color=F78029&center=true&vCenter=true&width=435&lines=%3E+Hello+World+!;I'm+Kavishka" alt="Typing SVG" /></a>
-
   <p align="center"><b>Connect with Me 🤝</b></p>
   <p align="center">
         <a href="https://www.linkedin.com/in/kavishka-sulochana/">
@@ -21,6 +20,7 @@
 
 <br>
 
+<!--- Counters -->
 <p align="center">
   <a href="https://github.com/rom4nz/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=rom4nz&label=PROFILE+VIEWS&style=for-the-badge&color=red"/></a>
@@ -30,9 +30,13 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rom4nz?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
+<!--- About me -->
 <h2>📖 | About me</h2> 
 Hello! I am Kavishka Sulochana Igalagama, a dedicated and passionate 2nd-year undergraduate student working towards a Software Engineering Degree. I am highly motivated to learn new technologies and develop innovative solutions to real-world challenges. I am excited to connect with industry experts and expand my software development and engineering expertise. Let's connect and explore exciting opportunities together!
 
+<br><br>
+
+<!--- contribution streak -->
 <h2>🔥| My contribution streak</h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -40,6 +44,7 @@ Hello! I am Kavishka Sulochana Igalagama, a dedicated and passionate 2nd-year un
   </a>
 </p>
 
+<!--- Stats -->
 <h2>⭐ | Github Stats </h2>
 <div align="center">
   <a href="https://github.com/rom4nz">
@@ -47,6 +52,7 @@ Hello! I am Kavishka Sulochana Igalagama, a dedicated and passionate 2nd-year un
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rom4nz&layout=compact&langs_count=7&theme=default"/></a>
 </div>
 
+<!--- Skills -->
 ## 💻 Technologies 
 
 <div>
@@ -67,6 +73,7 @@ Hello! I am Kavishka Sulochana Igalagama, a dedicated and passionate 2nd-year un
  <br><br>
 </div>
 
+<!--- Tools -->
 ## 🛠️ Software & Tools
  
 <p>
@@ -79,7 +86,16 @@ Hello! I am Kavishka Sulochana Igalagama, a dedicated and passionate 2nd-year un
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
      &emsp;
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-    &emsp;
+  &emsp;
      <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-    &emsp; 
-  </p>
+  &emsp; 
+</p>
+
+<br><br>
+
+<!--- Snake Graph -->
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rom4nz/rom4nz/d036ac30c45a272e6ae29fd3c3c8fa9d9dc1e0f6/Gif/github-contribution-grid-snake.svg" />
+  <br/>
+</div>
