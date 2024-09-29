@@ -36,22 +36,6 @@ Hello! I am Kavishka Sulochana Igalagama, a dedicated and passionate 2nd-year un
 
 <br><br>
 
-<!--- contribution streak -->
-<h2>🔥| My contribution streak</h2>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rom4nz#version3"/>
-  </a>
-</p>
-
-<!--- Stats -->
-<h2>⭐ | Github Stats </h2>
-<div align="center">
-  <a href="https://github.com/rom4nz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rom4nz&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rom4nz&layout=compact&langs_count=7&theme=default"/></a>
-</div>
-
 <!--- Skills -->
 ## 💻 Technologies 
 
@@ -92,6 +76,24 @@ Hello! I am Kavishka Sulochana Igalagama, a dedicated and passionate 2nd-year un
      <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
   &emsp; 
 </p>
+
+<br><br>
+
+<!--- contribution streak -->
+<h2>🔥| My contribution streak</h2>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rom4nz#version3"/>
+  </a>
+</p>
+
+<!--- Stats -->
+<h2>⭐ | Github Stats </h2>
+<div align="center">
+  <a href="https://github.com/rom4nz">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rom4nz&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rom4nz&layout=compact&langs_count=7&theme=default"/></a>
+</div>
 
 <br><br>
 
