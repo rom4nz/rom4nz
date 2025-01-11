@@ -1,6 +1,6 @@
 <!--- Head -->
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=40&pause=1000&color=F78029&center=true&vCenter=true&width=435&lines=%3E+Hello+Wolrd+!;I'm+Kavishka" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=35&pause=1000&color=F78029&center=true&vCenter=true&width=435&lines=%3EHello+Wolrd+!;I'm+Kavishka" alt="Typing SVG" /></a>
   <p align="center"><b>Connect with Me 🤝</b></p>
   <p align="center">
         <a href="https://www.linkedin.com/in/kavishka-sulochana/">
