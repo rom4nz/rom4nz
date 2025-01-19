@@ -67,7 +67,7 @@ Hello! I am Kavishka Sulochana Igalagama, a dedicated and passionate 2nd-year un
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-0078D4?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-A1C535?style=for-the-badge&logo=netbeans&logoColor=white"></a>
   &emsp;
