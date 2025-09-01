@@ -32,7 +32,7 @@
 
 <!--- About me -->
 <h2>📖 | About me</h2> 
-Hello! I am Kavishka Sulochana Igalagama, a dedicated and passionate 2nd-year undergraduate student working towards a Software Engineering Degree. I am highly motivated to learn new technologies and develop innovative solutions to real-world challenges. I am excited to connect with industry experts and expand my software development and engineering expertise. Let's connect and explore exciting opportunities together!
+Hello! I am Kavishka Sulochana Igalagama, a dedicated and passionate final year undergraduate student working towards a Software Engineering Degree. I am highly motivated to learn new technologies and develop innovative solutions to real-world challenges. I am excited to connect with industry experts and expand my software development and engineering expertise. Let's connect and explore exciting opportunities together!
 
 <br><br>
 
